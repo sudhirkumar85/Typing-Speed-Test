@@ -20,8 +20,14 @@ If you enjoy my projects and tutorials, you can support me by:
 ---
 
 ## 🎥 Watch the Tutorial
-📺 **YouTube Video:** [Typing Speed Test using HTML, CSS, and JavaScript](https://youtu.be/MZ5sn8F1gvs)  
+📺 **YouTube Video:** [Typing Speed Test using HTML, CSS, and JavaScript](https://youtu.be/Fzdvu7Azc8w)  
 🎬 By **[CodingWithSudhir](https://www.youtube.com/@CodingWithSudhir)**  
+
+---
+
+## 📸 Screenshots
+
+![Typing Speed Test Preview](assets/preview1.png)
 
 ---
 
