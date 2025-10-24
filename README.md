@@ -27,7 +27,7 @@ If you enjoy my projects and tutorials, you can support me by:
 
 ## 📸 Screenshots
 
-![Typing Speed Test Preview](assets/preview1.png)
+<img width="1366" height="768" alt="{84F6A05D-3870-42E0-90BD-7C62E3617F10}" src="https://github.com/user-attachments/assets/d0d2b60c-18af-4560-884a-317e62960473" />
 
 ---
 
