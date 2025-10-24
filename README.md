@@ -5,6 +5,15 @@ This project helps users check their typing **speed (WPM)** and **accuracy** in 
 
 ---
 
+## ❤️ Support My Work
+If you enjoy my projects and tutorials, you can support me by:  
+- ⭐ **Star this repo** → [Typing-Speed-Test](https://github.com/sudhirkumar85/Typing-Speed-Test)  
+- 🎥 **Subscribe to my YouTube Channel** → [CodingWithSudhir](https://www.youtube.com/@CodingWithSudhir)  
+- 📧 **Email me** → [codingwithsudhir@gmail.com](mailto:codingwithsudhir@gmail.com)  
+- 💬 Share your feedback and suggestions in the comments of the YouTube video
+
+---
+
 ## 🔗 Live Demo
 👉 **[View Live Project](https://sudhirkumar85.github.io/Typing-Speed-Test/)**
 
@@ -17,11 +26,11 @@ This project helps users check their typing **speed (WPM)** and **accuracy** in 
 ---
 
 ## 🧠 Features
-- ⏱️ Real-time typing speed (Words Per Minute)
-- 🎯 Accuracy tracking with live feedback
-- 🔁 Restart / Reset functionality
-- 💻 Responsive and minimal UI design
-- 🧩 Built entirely with **HTML**, **CSS**, and **Vanilla JavaScript**
+- ⏱️ Real-time typing speed (Words Per Minute)  
+- 🎯 Accuracy tracking with live feedback  
+- 🔁 Restart / Reset functionality  
+- 💻 Responsive and minimal UI design  
+- 🧩 Built entirely with **HTML**, **CSS**, and **Vanilla JavaScript**  
 
 ---
 
